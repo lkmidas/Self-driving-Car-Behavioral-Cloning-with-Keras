@@ -1,7 +1,7 @@
 # Self-driving Car Behavioral Cloning with Keras
 
 ## Introduction
-This is a team project to build an **end-to-end driving behavioral cloning neural network** based on the one in Udacity Behavioral Cloning project. One big difference between our project and Udacity's is that our project can learn to drive on both one-lane and two-lane roads. 
+This is a team project to build an **end-to-end driving behavioral cloning neural network** based on the one in Udacity Behavioral Cloning project. One big difference between our project and Udacity's is that **our project can learn to drive on both one-lane and two-lane roads**. 
 
 Note that this project was made for `Python 3.7`, `tensorflow 2.3.0` and `Keras 2.4.3`. Running it on another environments may not work as expected.
 
